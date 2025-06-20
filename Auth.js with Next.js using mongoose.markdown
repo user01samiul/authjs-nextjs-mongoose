@@ -262,7 +262,7 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
 ## Middleware Setup
 Protect routes using Auth.js middleware.
 
-**`app/middleware.ts`**
+**`root/middleware.ts`**
 ```typescript
 export { auth as middleware } from "@/auth";
 ```
