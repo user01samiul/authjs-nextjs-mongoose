@@ -6,7 +6,7 @@ This repository contains a quick and simple guide to implementing authentication
 
 ## 📄 Guide File
 
-To get started, open the file:
+To get started, open the file from repository:
 
 > **`Auth.js with Next.js using mongoose.markdown`**
 
