@@ -13,6 +13,3 @@ To get started, open the file:
 You'll find a complete walkthrough inside.
 
 ---
-
-## 📁 Repository Structure
-
