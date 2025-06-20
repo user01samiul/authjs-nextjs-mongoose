@@ -1,7 +1,18 @@
-# 🛡️ Auth.js + Next.js + Mongoose
+# 📌 authjs-nextjs-mongoose
 
-This repository contains a **quick guide** to implement authentication in your **Next.js** application using **Auth.js** with **Mongoose**.
+This repository contains a quick and simple guide to implementing authentication in your **Next.js** application using **Auth.js** with **Mongoose**.
 
-## 📄 Guide
+---
 
-To get started, open the file from the repository: "Auth.js with Next.js using mongoose.markdown"
+## 📄 Guide File
+
+To get started, open the file:
+
+> **`Auth.js with Next.js using mongoose.markdown`**
+
+You'll find a complete walkthrough inside.
+
+---
+
+## 📁 Repository Structure
+
